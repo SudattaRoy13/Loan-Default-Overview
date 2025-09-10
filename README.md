@@ -39,7 +39,7 @@ Key attributes used:
 
 ---
 
-## ✅ Key Insights
+## Key Insights
 - Borrowing patterns vary strongly by **purpose & demographics**.  
 - **YOY analysis** highlights loan growth vs defaults.  
 - Supports **risk assessment & strategic loan approvals**.  
