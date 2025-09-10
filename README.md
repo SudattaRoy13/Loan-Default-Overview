@@ -35,7 +35,7 @@ Key attributes used:
 ### Page 3 – Financial Risk Metrics  
 - YOY Loan Amount Change (`DIVIDE + CALCULATE`)  
 - YOY Default Loans Change (`COUNTROWS + FILTER`)  
-📸 *[[Screenshot](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Financial%20Risk%20Metrix.png)]()*  
+📸 *[[Screenshot](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Financial%20Risk%20Metrix.png)]*  
 
 ---
 
