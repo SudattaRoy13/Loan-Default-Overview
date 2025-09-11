@@ -25,17 +25,17 @@ Key attributes used:
 ### Page 1 – Loan Purpose & Amounts  
 - Loan Amount by Purpose (`SUMX + FILTER`)  
 - Line chart with data validation  
-📸 *[Screenshot](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Loan%20Overview.png)*  
+📸 *[Screenshot of 'Loan Defaults'](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Loan%20Overview.png)*  
 
 ### Page 2 – Applicant Demographics  
 - Median Loan Amount by Credit Score (`MEDIANX`)  
 - Segmentation by Age Group, Mortgage & Dependents  
-📸 *[Screenshot](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Applicant%20Demographics.png)*  
+📸 *[Screenshot of 'Applicant Demographics'](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Applicant%20Demographics.png)*  
 
 ### Page 3 – Financial Risk Metrics  
 - YOY Loan Amount Change (`DIVIDE + CALCULATE`)  
 - YOY Default Loans Change (`COUNTROWS + FILTER`)  
-📸 *[Screenshot](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Financial%20Risk%20Metrix.png)*  
+📸 *[Screenshot of 'Financial Risk Metrics'](https://github.com/SudattaRoy13/Loan-Default-Overview/blob/main/Financial%20Risk%20Metrix.png)*  
 
 ---
 
